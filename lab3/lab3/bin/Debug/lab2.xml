@@ -1,0 +1,129 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+lab2
+</name>
+</assembly>
+<members>
+<member name="T:lab2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_1_arm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_1_leg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_2_arms">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_body">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_empty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_head">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_over">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_string">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.hangman_whole">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab2.My.Resources.Resources.words">
+<summary>
+  Looks up a localized string similar to aardvark
+aardwolf
+aaron
+aback
+abacus
+abaft
+abalone
+abandon
+abandoned
+abandonment
+abandons
+abase
+abased
+abasement
+abash
+abashed
+abate
+abated
+abatement
+abates
+abattoir
+abattoirs
+abbe
+abbess
+abbey
+abbeys
+abbot
+abbots
+abbreviate
+abbreviated
+abbreviates
+abbreviating
+abbreviation
+abbreviations
+abdicate
+abdicated
+abdicates
+abdicating
+abdication
+abdomen
+abdomens
+abdominal
+abduct
+abducted
+abducting
+abduction
+abductions
+abductor
+abductors
+abducts
+abe
+abeam
+abel
+abe [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>
